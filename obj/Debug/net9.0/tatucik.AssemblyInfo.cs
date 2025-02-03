@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tatucik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe1c15549132fabdc7f1f83ee1e262e112b50cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("tatucik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tatucik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
