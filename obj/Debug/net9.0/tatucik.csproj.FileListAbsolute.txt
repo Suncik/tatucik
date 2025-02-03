@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\tatucik\bin\Debug\net9.0\tatucik.exe
+C:\Users\user\Desktop\tatucik\bin\Debug\net9.0\tatucik.deps.json
+C:\Users\user\Desktop\tatucik\bin\Debug\net9.0\tatucik.runtimeconfig.json
+C:\Users\user\Desktop\tatucik\bin\Debug\net9.0\tatucik.dll
+C:\Users\user\Desktop\tatucik\bin\Debug\net9.0\tatucik.pdb
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.AssemblyInfo.cs
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.dll
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\refint\tatucik.dll
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.pdb
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.genruntimeconfig.cache
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\ref\tatucik.dll
