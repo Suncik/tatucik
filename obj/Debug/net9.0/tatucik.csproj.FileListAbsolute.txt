@@ -12,3 +12,4 @@ C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\refint\tatucik.dll
 C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.pdb
 C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.genruntimeconfig.cache
 C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\ref\tatucik.dll
+C:\Users\user\Desktop\tatucik\obj\Debug\net9.0\tatucik.sourcelink.json

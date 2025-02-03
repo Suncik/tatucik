@@ -61,22 +61,29 @@ class Program
         
     // }  else System.Console.WriteLine("armstrong emas");
     // 6-masala
-    Console.Write("sonni kiriting:>>");
-    int x=Convert.ToInt32(Console.ReadLine());
-    int pc=0;
+    // Console.Write("sonni kiriting:>>");
+    // int x=Convert.ToInt32(Console.ReadLine());
+    // int pc=0;
     
-    for(int i=1; i<=x/2; i++){
+    // for(int i=1; i<=x/2; i++){
         
-        if(x%i==0){
-            pc++;
+    //     if(x%i==0){
+    //         pc++;
             
 
-        }
+    //     }
       
-    }
-      System.Console.WriteLine(pc);
+    // }
+    //   System.Console.WriteLine(pc);
 
-
+    //3-masala
+     
+Console.Write("sonni kiriting:>>");
+     int x=Convert.ToInt32(Console.ReadLine());
+     Console.Write("darajani kiriting:>>");
+    int n=Convert.ToInt32(Console.ReadLine());
+     System.Console.WriteLine();
+     System.Console.WriteLine(Math.Pow(x,n));
 
         }
     }
